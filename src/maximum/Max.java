@@ -16,7 +16,7 @@ public class Max {
     public static void main(String  args[]){
 
         System.out.println("maximum number is in integer  "+ maximum(3,4,5));
-
+        System.out.println("maximum number is in float   "+ maximum(6.6,6.7,6.8));
     }
 
 
